@@ -1,2 +1,2 @@
 # cvat_git_int
-cvat git integration test
+Cvat git integration test
